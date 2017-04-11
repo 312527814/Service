@@ -1,0 +1,14 @@
+D:\CloudServices\ServiceSolution\Interfaces\bin\Debug\Interfaces.dll
+D:\CloudServices\ServiceSolution\Interfaces\bin\Debug\Interfaces.pdb
+D:\CloudServices\ServiceSolution\Interfaces\bin\Debug\Model.dll
+D:\CloudServices\ServiceSolution\Interfaces\bin\Debug\Model.pdb
+D:\CloudServices\ServiceSolution\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\CloudServices\ServiceSolution\Interfaces\obj\Debug\Interfaces.dll
+D:\CloudServices\ServiceSolution\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Interfaces\obj\Debug\Interfaces.pdb

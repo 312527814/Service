@@ -1,0 +1,10 @@
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\DAL.dll
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\DAL.pdb
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\Dapper.dll
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\Interfaces.dll
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\Model.dll
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\Interfaces.pdb
+D:\CloudServices\ServiceSolution\DAL\bin\Debug\Model.pdb
+D:\CloudServices\ServiceSolution\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\CloudServices\ServiceSolution\DAL\obj\Debug\DAL.dll
+D:\CloudServices\ServiceSolution\DAL\obj\Debug\DAL.pdb

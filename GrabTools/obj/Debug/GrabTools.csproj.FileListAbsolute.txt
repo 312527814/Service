@@ -1,0 +1,10 @@
+D:\CloudServices\ServiceSolution\GrabTools\bin\Debug\GrabTools.exe.config
+D:\CloudServices\ServiceSolution\GrabTools\bin\Debug\GrabTools.exe
+D:\CloudServices\ServiceSolution\GrabTools\bin\Debug\GrabTools.pdb
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\WebBrowserCode.Form1.resources
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\GrabTools.Properties.Resources.resources
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\GrabTools.Test.resources
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\GrabTools.csproj.GenerateResource.Cache
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\GrabTools.exe
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\GrabTools.pdb
+D:\CloudServices\ServiceSolution\GrabTools\obj\Debug\GrabTools.csprojResolveAssemblyReference.cache

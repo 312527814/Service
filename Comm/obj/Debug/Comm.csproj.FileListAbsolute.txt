@@ -1,0 +1,9 @@
+D:\CloudServices\ServiceSolution\Comm\bin\Debug\Comm.dll
+D:\CloudServices\ServiceSolution\Comm\bin\Debug\Comm.pdb
+D:\CloudServices\ServiceSolution\Comm\obj\Debug\Comm.dll
+D:\CloudServices\ServiceSolution\Comm\obj\Debug\Comm.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Comm\bin\Debug\Comm.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Comm\bin\Debug\Comm.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServiceSolution\Comm\obj\Debug\Comm.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Comm\obj\Debug\Comm.pdb

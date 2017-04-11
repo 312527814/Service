@@ -1,0 +1,9 @@
+D:\CloudServices\ServiceSolution\Model\bin\Debug\Model.dll
+D:\CloudServices\ServiceSolution\Model\bin\Debug\Model.pdb
+D:\CloudServices\ServiceSolution\Model\obj\Debug\Model.dll
+D:\CloudServices\ServiceSolution\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\ServiceSolution\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServiceSolution\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\ServiceSolution\Model\obj\Debug\Model.pdb
